@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "893999341254",
+    "project_id": "simplicus-pvt-ltd-53e13",
+    "storage_bucket": "simplicus-pvt-ltd-53e13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893999341254:android:10ab7de6ca55d520f981c7",
+        "android_client_info": {
+          "package_name": "lk.simplicuspvtltd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-hiDkd0vsiF8sbElx7-Ur4kcmVydiAwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
